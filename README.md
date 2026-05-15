@@ -90,7 +90,8 @@ Regression analysis was performed to predict profit using features such as sales
 A Random Forest Regressor model was trained to analyze how discounts and other business components affect profitability.
 
 The analysis showed that higher discounts consistently reduce profit and can eventually turn profitable sales into losses.
-DETAILES OF PROJECT :- 
+
+ DETAILES OF PROJECT :- 
     https://github.com/Raeesha-Rahiman/TASK-2---PREDICTIVE_ANALYSIS_USING_MACHINE-_LEARNING/blob/main/A%20Regression%20Predictive%20Analysis%20journey.pdf
 
 ### Classification Predictive Analysis
@@ -100,7 +101,8 @@ Classification analysis was performed to classify customer value and customer be
 The objective was to identify whether customer purchasing patterns and financial contribution could help classify valuable customers.
 
 The analysis demonstrated that customer behavior and transaction patterns can provide meaningful insights for customer segmentation, targeting, and business strategy improvement.
-To know story of analysis :-  
+
+ To know story of analysis :-  
     https://github.com/Raeesha-Rahiman/TASK-2---PREDICTIVE_ANALYSIS_USING_MACHINE-_LEARNING/blob/main/Customer_Value_Classification_Story.pdf
 
 ### Conclusion
